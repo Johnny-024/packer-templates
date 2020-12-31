@@ -21,7 +21,7 @@ To validate the packer template before building it(saves time)
 
 packer validate <template.json>
 
-To build after no errors have been spoted in the previous stem
+To build after no errors have been spoted in the previous step
 
 packer build <template.json>
 
