@@ -30,7 +30,7 @@ If the build goes without any errors it should output a .box file which then can
 
 vagrant box add --name <packer-template-output.box>
 
-After that a directory should be dedicated to the new vagrant machin that is going to be brought up with the newly created packer vagrant box.
+After that a directory should be dedicated to the new vagrant machine that is going to be brought up with the newly created packer vagrant box.
 A vagrantfile should be present, to create one.
 
 vagrant init
